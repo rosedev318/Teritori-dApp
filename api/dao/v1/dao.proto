@@ -1,4 +1,5 @@
 syntax = "proto3";
+
 package dao.v1;
 option go_package = "./daopb";
 
